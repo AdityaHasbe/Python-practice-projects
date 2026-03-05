@@ -1,3 +1,4 @@
+Author - Aditya Hasbe
 # Python Practice Projects
 
 This repository contains a collection of my beginner Python projects as I learn the fundamentals and build my coding skills. 
